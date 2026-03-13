@@ -9,6 +9,9 @@
 </div>
  
 <hr>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Lakvin7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 - 🎓 An undergraduate student at University of Westminster
 
